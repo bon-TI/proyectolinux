@@ -15,6 +15,12 @@ function mostrarPdf1() {
     element10.style.display = 'none';
     element11.style.display = 'none';
     element12.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
   } else {
     element1.style.display = 'none';
     element2.style.display = 'none';
@@ -28,6 +34,12 @@ function mostrarPdf1() {
     element10.style.display = 'none';
     element11.style.display = 'none';
     element12.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
   }
 
 }
@@ -49,6 +61,12 @@ function mostrarPdf2() {
     element10.style.display = 'none';
     element11.style.display = 'none';
     element12.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
   } else {
     element1.style.display = 'none';
     element2.style.display = 'none';
@@ -62,6 +80,12 @@ function mostrarPdf2() {
     element10.style.display = 'none';
     element11.style.display = 'none';
     element12.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
   }
 
 }
@@ -83,6 +107,12 @@ function mostrarPdf3() {
     element10.style.display = 'none';
     element11.style.display = 'none';
     element12.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
   } else {
     element1.style.display = 'none';
     element2.style.display = 'none';
@@ -96,6 +126,12 @@ function mostrarPdf3() {
     element10.style.display = 'none';
     element11.style.display = 'none';
     element12.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
   }
 
 }
@@ -117,6 +153,12 @@ function mostrarPdf4() {
     element10.style.display = 'none';
     element11.style.display = 'none';
     element12.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
   } else {
     element1.style.display = 'none';
     element2.style.display = 'none';
@@ -130,6 +172,12 @@ function mostrarPdf4() {
     element10.style.display = 'none';
     element11.style.display = 'none';
     element12.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
   }
 
 }
@@ -151,6 +199,12 @@ function mostrarPdf5() {
     element10.style.display = 'none';
     element11.style.display = 'none';
     element12.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
   } else {
     element1.style.display = 'none';
     element2.style.display = 'none';
@@ -164,6 +218,12 @@ function mostrarPdf5() {
     element10.style.display = 'none';
     element11.style.display = 'none';
     element12.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
   }
 
 }
@@ -185,6 +245,12 @@ function mostrarPdf6() {
     element10.style.display = 'none';
     element11.style.display = 'none';
     element12.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
   } else {
     element1.style.display = 'none';
     element2.style.display = 'none';
@@ -198,6 +264,12 @@ function mostrarPdf6() {
     element10.style.display = 'none';
     element11.style.display = 'none';
     element12.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
   }
 
 }
@@ -219,6 +291,12 @@ function mostrarPdf7() {
     element10.style.display = 'none';
     element11.style.display = 'none';
     element12.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
   } else {
     element1.style.display = 'none';
     element2.style.display = 'none';
@@ -232,6 +310,12 @@ function mostrarPdf7() {
     element10.style.display = 'none';
     element11.style.display = 'none';
     element12.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
   }
 
 }
@@ -253,6 +337,12 @@ function mostrarPdf8() {
     element10.style.display = 'none';
     element11.style.display = 'none';
     element12.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
   } else {
     element1.style.display = 'none';
     element2.style.display = 'none';
@@ -266,6 +356,12 @@ function mostrarPdf8() {
     element10.style.display = 'none';
     element11.style.display = 'none';
     element12.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
   }
 
 }
@@ -287,6 +383,12 @@ function mostrarPdf9() {
     element10.style.display = 'none';
     element11.style.display = 'none';
     element12.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
   } else {
     element1.style.display = 'none';
     element2.style.display = 'none';
@@ -300,6 +402,12 @@ function mostrarPdf9() {
     element10.style.display = 'none';
     element11.style.display = 'none';
     element12.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
   }
 
 }
@@ -321,6 +429,12 @@ function mostrarPdf10() {
     element9.style.display = 'none';
     element11.style.display = 'none';
     element12.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
   } else {
     element1.style.display = 'none';
     element2.style.display = 'none';
@@ -334,6 +448,12 @@ function mostrarPdf10() {
     element10.style.display = 'none';
     element11.style.display = 'none';
     element12.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
   }
 
 }
@@ -355,6 +475,12 @@ function mostrarPdf11() {
     element9.style.display = 'none';
     element10.style.display = 'none';
     element12.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
   } else {
     element1.style.display = 'none';
     element2.style.display = 'none';
@@ -368,11 +494,17 @@ function mostrarPdf11() {
     element10.style.display = 'none';
     element11.style.display = 'none';
     element12.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
   }
 
 }
 
-/* PDF VIEWER 11*/  
+/* PDF VIEWER 12*/  
 function mostrarPdf12() {
   element12 = document.getElementById('pdfviewer12');
   estado12 = element12.style.display;
@@ -389,6 +521,12 @@ function mostrarPdf12() {
     element9.style.display = 'none';
     element10.style.display = 'none';
     element11.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
   } else {
     element1.style.display = 'none';
     element2.style.display = 'none';
@@ -402,6 +540,288 @@ function mostrarPdf12() {
     element10.style.display = 'none';
     element11.style.display = 'none';
     element12.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
+  }
+
+}
+
+/* PDF VIEWER 13*/  
+function mostrarPdf13() {
+  element13 = document.getElementById('pdfviewer13');
+  estado13 = element13.style.display;
+  if (estado13 == 'none') {
+    element13.style.display = 'inline-block';
+    element1.style.display = 'none';
+    element2.style.display = 'none';
+    element3.style.display = 'none';
+    element4.style.display = 'none';
+    element5.style.display = 'none';
+    element6.style.display = 'none';
+    element7.style.display = 'none';
+    element8.style.display = 'none';
+    element9.style.display = 'none';
+    element10.style.display = 'none';
+    element11.style.display = 'none';
+    element12.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
+  } else {
+    element1.style.display = 'none';
+    element2.style.display = 'none';
+    element3.style.display = 'none';
+    element4.style.display = 'none';
+    element5.style.display = 'none';
+    element6.style.display = 'none';
+    element7.style.display = 'none';
+    element8.style.display = 'none';
+    element9.style.display = 'none';
+    element10.style.display = 'none';
+    element11.style.display = 'none';
+    element12.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
+  }
+
+}
+
+/* PDF VIEWER 14*/  
+function mostrarPdf14() {
+  element14 = document.getElementById('pdfviewer14');
+  estado14 = element14.style.display;
+  if (estado14 == 'none') {
+    element14.style.display = 'inline-block';
+    element1.style.display = 'none';
+    element2.style.display = 'none';
+    element3.style.display = 'none';
+    element4.style.display = 'none';
+    element5.style.display = 'none';
+    element6.style.display = 'none';
+    element7.style.display = 'none';
+    element8.style.display = 'none';
+    element9.style.display = 'none';
+    element10.style.display = 'none';
+    element11.style.display = 'none';
+    element12.style.display = 'none';
+    element13.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
+  } else {
+    element1.style.display = 'none';
+    element2.style.display = 'none';
+    element3.style.display = 'none';
+    element4.style.display = 'none';
+    element5.style.display = 'none';
+    element6.style.display = 'none';
+    element7.style.display = 'none';
+    element8.style.display = 'none';
+    element9.style.display = 'none';
+    element10.style.display = 'none';
+    element11.style.display = 'none';
+    element12.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
+  }
+
+}
+
+/* PDF VIEWER 15*/  
+function mostrarPdf15() {
+  element15 = document.getElementById('pdfviewer15');
+  estado15 = element15.style.display;
+  if (estado15 == 'none') {
+    element15.style.display = 'inline-block';
+    element1.style.display = 'none';
+    element2.style.display = 'none';
+    element3.style.display = 'none';
+    element4.style.display = 'none';
+    element5.style.display = 'none';
+    element6.style.display = 'none';
+    element7.style.display = 'none';
+    element8.style.display = 'none';
+    element9.style.display = 'none';
+    element10.style.display = 'none';
+    element11.style.display = 'none';
+    element12.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
+  } else {
+    element1.style.display = 'none';
+    element2.style.display = 'none';
+    element3.style.display = 'none';
+    element4.style.display = 'none';
+    element5.style.display = 'none';
+    element6.style.display = 'none';
+    element7.style.display = 'none';
+    element8.style.display = 'none';
+    element9.style.display = 'none';
+    element10.style.display = 'none';
+    element11.style.display = 'none';
+    element12.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
+  }
+
+}
+
+/* PDF VIEWER 16*/  
+function mostrarPdf16() {
+  element16 = document.getElementById('pdfviewer16');
+  estado16 = element16.style.display;
+  if (estado16 == 'none') {
+    element16.style.display = 'inline-block';
+    element1.style.display = 'none';
+    element2.style.display = 'none';
+    element3.style.display = 'none';
+    element4.style.display = 'none';
+    element5.style.display = 'none';
+    element6.style.display = 'none';
+    element7.style.display = 'none';
+    element8.style.display = 'none';
+    element9.style.display = 'none';
+    element10.style.display = 'none';
+    element11.style.display = 'none';
+    element12.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
+  } else {
+    element1.style.display = 'none';
+    element2.style.display = 'none';
+    element3.style.display = 'none';
+    element4.style.display = 'none';
+    element5.style.display = 'none';
+    element6.style.display = 'none';
+    element7.style.display = 'none';
+    element8.style.display = 'none';
+    element9.style.display = 'none';
+    element10.style.display = 'none';
+    element11.style.display = 'none';
+    element12.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
+  }
+
+}
+
+/* PDF VIEWER 17*/  
+function mostrarPdf17() {
+  element17 = document.getElementById('pdfviewer17');
+  estado17 = element17.style.display;
+  if (estado17 == 'none') {
+    element17.style.display = 'inline-block';
+    element1.style.display = 'none';
+    element2.style.display = 'none';
+    element3.style.display = 'none';
+    element4.style.display = 'none';
+    element5.style.display = 'none';
+    element6.style.display = 'none';
+    element7.style.display = 'none';
+    element8.style.display = 'none';
+    element9.style.display = 'none';
+    element10.style.display = 'none';
+    element11.style.display = 'none';
+    element12.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element18.style.display = 'none';
+  } else {
+    element1.style.display = 'none';
+    element2.style.display = 'none';
+    element3.style.display = 'none';
+    element4.style.display = 'none';
+    element5.style.display = 'none';
+    element6.style.display = 'none';
+    element7.style.display = 'none';
+    element8.style.display = 'none';
+    element9.style.display = 'none';
+    element10.style.display = 'none';
+    element11.style.display = 'none';
+    element12.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
+  }
+
+}
+
+/* PDF VIEWER 18*/  
+function mostrarPdf18() {
+  element18 = document.getElementById('pdfviewer18');
+  estado18 = element18.style.display;
+  if (estado18 == 'none') {
+    element18.style.display = 'inline-block';
+    element1.style.display = 'none';
+    element2.style.display = 'none';
+    element3.style.display = 'none';
+    element4.style.display = 'none';
+    element5.style.display = 'none';
+    element6.style.display = 'none';
+    element7.style.display = 'none';
+    element8.style.display = 'none';
+    element9.style.display = 'none';
+    element10.style.display = 'none';
+    element11.style.display = 'none';
+    element12.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+  } else {
+    element1.style.display = 'none';
+    element2.style.display = 'none';
+    element3.style.display = 'none';
+    element4.style.display = 'none';
+    element5.style.display = 'none';
+    element6.style.display = 'none';
+    element7.style.display = 'none';
+    element8.style.display = 'none';
+    element9.style.display = 'none';
+    element10.style.display = 'none';
+    element11.style.display = 'none';
+    element12.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
   }
 
 }
