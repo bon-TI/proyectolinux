@@ -89,17 +89,19 @@ header a:hover {
 /* LISTA */
 
 .listaPracts {
-  font-family: "Courier New", Courier, monospace;
-  margin-top: 25px;
-  margin-left: 95px;
-  width: 570px;
+  font-family: "Inconsolata", monospace;
+  font-weight: 600;
+  margin-top: 30px;
+  margin-left: 20px;
+  width: 680px;
   margin-right: 6px;
   border-right: 1px solid black;
   display: inline-block;
+  vertical-align: bottom;
 }
 
 .listaPracts ul {
-  list-style: circle;
+  list-style: none;
 }
 
 .listaPracts li {
@@ -121,30 +123,10 @@ header a:hover {
 /* PDF VIEWER */
 
 .pdfviewer{
-  height: 530px;
-  width: 650px;
+  height: 520px;
+  width: 600px;
   margin-left: 10px;
   display: none;
-}
-
-/* SOCIAL BAR */
-.socialbar {
-  position: fixed;
-  top: 320px;
-  margin-left: 20px;
-}
-
-.socialbar a {
-  color: rgba(0, 58, 55, 0.904);
-  display: block;
-  font-size: 35px;
-  text-decoration: none;
-  margin-bottom: 10px;
-}
-
-.socialbar a:hover {
-  margin-left: 10px;
-  transition: all 0.5s ease;
 }
 
 /* SCROLLBAR 
