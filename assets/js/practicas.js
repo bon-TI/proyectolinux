@@ -1,3 +1,25 @@
+/* Ocultar Todo */ 
+function ocultar_todo () {
+  element1.style.display = 'none';
+  element2.style.display = 'none';
+  element3.style.display = 'none';
+  element4.style.display = 'none';
+  element5.style.display = 'none';
+  element6.style.display = 'none';
+  element7.style.display = 'none';
+  element8.style.display = 'none';
+  element9.style.display = 'none';
+  element10.style.display = 'none';
+  element11.style.display = 'none';
+  element12.style.display = 'none';
+  element13.style.display = 'none';
+  element14.style.display = 'none';
+  element15.style.display = 'none';
+  element16.style.display = 'none';
+  element17.style.display = 'none';
+  element18.style.display = 'none';
+}
+
 /* PDF VIEWER 1*/  
 function mostrarPdf1() {
   element1 = document.getElementById('pdfviewer1');
@@ -22,24 +44,7 @@ function mostrarPdf1() {
     element17.style.display = 'none';
     element18.style.display = 'none';
   } else {
-    element1.style.display = 'none';
-    element2.style.display = 'none';
-    element3.style.display = 'none';
-    element4.style.display = 'none';
-    element5.style.display = 'none';
-    element6.style.display = 'none';
-    element7.style.display = 'none';
-    element8.style.display = 'none';
-    element9.style.display = 'none';
-    element10.style.display = 'none';
-    element11.style.display = 'none';
-    element12.style.display = 'none';
-    element13.style.display = 'none';
-    element14.style.display = 'none';
-    element15.style.display = 'none';
-    element16.style.display = 'none';
-    element17.style.display = 'none';
-    element18.style.display = 'none';
+    ocultar_todo()
   }
 
 }
@@ -68,24 +73,7 @@ function mostrarPdf2() {
     element17.style.display = 'none';
     element18.style.display = 'none';
   } else {
-    element1.style.display = 'none';
-    element2.style.display = 'none';
-    element3.style.display = 'none';
-    element4.style.display = 'none';
-    element5.style.display = 'none';
-    element6.style.display = 'none';
-    element7.style.display = 'none';
-    element8.style.display = 'none';
-    element9.style.display = 'none';
-    element10.style.display = 'none';
-    element11.style.display = 'none';
-    element12.style.display = 'none';
-    element13.style.display = 'none';
-    element14.style.display = 'none';
-    element15.style.display = 'none';
-    element16.style.display = 'none';
-    element17.style.display = 'none';
-    element18.style.display = 'none';
+    ocultar_todo()
   }
 
 }
@@ -114,24 +102,7 @@ function mostrarPdf3() {
     element17.style.display = 'none';
     element18.style.display = 'none';
   } else {
-    element1.style.display = 'none';
-    element2.style.display = 'none';
-    element3.style.display = 'none';
-    element4.style.display = 'none';
-    element5.style.display = 'none';
-    element6.style.display = 'none';
-    element7.style.display = 'none';
-    element8.style.display = 'none';
-    element9.style.display = 'none';
-    element10.style.display = 'none';
-    element11.style.display = 'none';
-    element12.style.display = 'none';
-    element13.style.display = 'none';
-    element14.style.display = 'none';
-    element15.style.display = 'none';
-    element16.style.display = 'none';
-    element17.style.display = 'none';
-    element18.style.display = 'none';
+    ocultar_todo()
   }
 
 }
@@ -160,24 +131,7 @@ function mostrarPdf4() {
     element17.style.display = 'none';
     element18.style.display = 'none';
   } else {
-    element1.style.display = 'none';
-    element2.style.display = 'none';
-    element3.style.display = 'none';
-    element4.style.display = 'none';
-    element5.style.display = 'none';
-    element6.style.display = 'none';
-    element7.style.display = 'none';
-    element8.style.display = 'none';
-    element9.style.display = 'none';
-    element10.style.display = 'none';
-    element11.style.display = 'none';
-    element12.style.display = 'none';
-    element13.style.display = 'none';
-    element14.style.display = 'none';
-    element15.style.display = 'none';
-    element16.style.display = 'none';
-    element17.style.display = 'none';
-    element18.style.display = 'none';
+    ocultar_todo()
   }
 
 }
@@ -206,24 +160,7 @@ function mostrarPdf5() {
     element17.style.display = 'none';
     element18.style.display = 'none';
   } else {
-    element1.style.display = 'none';
-    element2.style.display = 'none';
-    element3.style.display = 'none';
-    element4.style.display = 'none';
-    element5.style.display = 'none';
-    element6.style.display = 'none';
-    element7.style.display = 'none';
-    element8.style.display = 'none';
-    element9.style.display = 'none';
-    element10.style.display = 'none';
-    element11.style.display = 'none';
-    element12.style.display = 'none';
-    element13.style.display = 'none';
-    element14.style.display = 'none';
-    element15.style.display = 'none';
-    element16.style.display = 'none';
-    element17.style.display = 'none';
-    element18.style.display = 'none';
+    ocultar_todo()
   }
 
 }
@@ -252,24 +189,7 @@ function mostrarPdf6() {
     element17.style.display = 'none';
     element18.style.display = 'none';
   } else {
-    element1.style.display = 'none';
-    element2.style.display = 'none';
-    element3.style.display = 'none';
-    element4.style.display = 'none';
-    element5.style.display = 'none';
-    element6.style.display = 'none';
-    element7.style.display = 'none';
-    element8.style.display = 'none';
-    element9.style.display = 'none';
-    element10.style.display = 'none';
-    element11.style.display = 'none';
-    element12.style.display = 'none';
-    element13.style.display = 'none';
-    element14.style.display = 'none';
-    element15.style.display = 'none';
-    element16.style.display = 'none';
-    element17.style.display = 'none';
-    element18.style.display = 'none';
+    ocultar_todo()
   }
 
 }
@@ -298,24 +218,7 @@ function mostrarPdf7() {
     element17.style.display = 'none';
     element18.style.display = 'none';
   } else {
-    element1.style.display = 'none';
-    element2.style.display = 'none';
-    element3.style.display = 'none';
-    element4.style.display = 'none';
-    element5.style.display = 'none';
-    element6.style.display = 'none';
-    element7.style.display = 'none';
-    element8.style.display = 'none';
-    element9.style.display = 'none';
-    element10.style.display = 'none';
-    element11.style.display = 'none';
-    element12.style.display = 'none';
-    element13.style.display = 'none';
-    element14.style.display = 'none';
-    element15.style.display = 'none';
-    element16.style.display = 'none';
-    element17.style.display = 'none';
-    element18.style.display = 'none';
+    ocultar_todo()
   }
 
 }
@@ -344,24 +247,7 @@ function mostrarPdf8() {
     element17.style.display = 'none';
     element18.style.display = 'none';
   } else {
-    element1.style.display = 'none';
-    element2.style.display = 'none';
-    element3.style.display = 'none';
-    element4.style.display = 'none';
-    element5.style.display = 'none';
-    element6.style.display = 'none';
-    element7.style.display = 'none';
-    element8.style.display = 'none';
-    element9.style.display = 'none';
-    element10.style.display = 'none';
-    element11.style.display = 'none';
-    element12.style.display = 'none';
-    element13.style.display = 'none';
-    element14.style.display = 'none';
-    element15.style.display = 'none';
-    element16.style.display = 'none';
-    element17.style.display = 'none';
-    element18.style.display = 'none';
+    ocultar_todo()
   }
 
 }
@@ -390,24 +276,7 @@ function mostrarPdf9() {
     element17.style.display = 'none';
     element18.style.display = 'none';
   } else {
-    element1.style.display = 'none';
-    element2.style.display = 'none';
-    element3.style.display = 'none';
-    element4.style.display = 'none';
-    element5.style.display = 'none';
-    element6.style.display = 'none';
-    element7.style.display = 'none';
-    element8.style.display = 'none';
-    element9.style.display = 'none';
-    element10.style.display = 'none';
-    element11.style.display = 'none';
-    element12.style.display = 'none';
-    element13.style.display = 'none';
-    element14.style.display = 'none';
-    element15.style.display = 'none';
-    element16.style.display = 'none';
-    element17.style.display = 'none';
-    element18.style.display = 'none';
+    ocultar_todo()
   }
 
 }
@@ -436,24 +305,7 @@ function mostrarPdf10() {
     element17.style.display = 'none';
     element18.style.display = 'none';
   } else {
-    element1.style.display = 'none';
-    element2.style.display = 'none';
-    element3.style.display = 'none';
-    element4.style.display = 'none';
-    element5.style.display = 'none';
-    element6.style.display = 'none';
-    element7.style.display = 'none';
-    element8.style.display = 'none';
-    element9.style.display = 'none';
-    element10.style.display = 'none';
-    element11.style.display = 'none';
-    element12.style.display = 'none';
-    element13.style.display = 'none';
-    element14.style.display = 'none';
-    element15.style.display = 'none';
-    element16.style.display = 'none';
-    element17.style.display = 'none';
-    element18.style.display = 'none';
+    ocultar_todo()
   }
 
 }
@@ -482,24 +334,7 @@ function mostrarPdf11() {
     element17.style.display = 'none';
     element18.style.display = 'none';
   } else {
-    element1.style.display = 'none';
-    element2.style.display = 'none';
-    element3.style.display = 'none';
-    element4.style.display = 'none';
-    element5.style.display = 'none';
-    element6.style.display = 'none';
-    element7.style.display = 'none';
-    element8.style.display = 'none';
-    element9.style.display = 'none';
-    element10.style.display = 'none';
-    element11.style.display = 'none';
-    element12.style.display = 'none';
-    element13.style.display = 'none';
-    element14.style.display = 'none';
-    element15.style.display = 'none';
-    element16.style.display = 'none';
-    element17.style.display = 'none';
-    element18.style.display = 'none';
+    ocultar_todo()
   }
 
 }
@@ -528,24 +363,7 @@ function mostrarPdf12() {
     element17.style.display = 'none';
     element18.style.display = 'none';
   } else {
-    element1.style.display = 'none';
-    element2.style.display = 'none';
-    element3.style.display = 'none';
-    element4.style.display = 'none';
-    element5.style.display = 'none';
-    element6.style.display = 'none';
-    element7.style.display = 'none';
-    element8.style.display = 'none';
-    element9.style.display = 'none';
-    element10.style.display = 'none';
-    element11.style.display = 'none';
-    element12.style.display = 'none';
-    element13.style.display = 'none';
-    element14.style.display = 'none';
-    element15.style.display = 'none';
-    element16.style.display = 'none';
-    element17.style.display = 'none';
-    element18.style.display = 'none';
+    ocultar_todo()
   }
 
 }
@@ -574,24 +392,7 @@ function mostrarPdf13() {
     element17.style.display = 'none';
     element18.style.display = 'none';
   } else {
-    element1.style.display = 'none';
-    element2.style.display = 'none';
-    element3.style.display = 'none';
-    element4.style.display = 'none';
-    element5.style.display = 'none';
-    element6.style.display = 'none';
-    element7.style.display = 'none';
-    element8.style.display = 'none';
-    element9.style.display = 'none';
-    element10.style.display = 'none';
-    element11.style.display = 'none';
-    element12.style.display = 'none';
-    element13.style.display = 'none';
-    element14.style.display = 'none';
-    element15.style.display = 'none';
-    element16.style.display = 'none';
-    element17.style.display = 'none';
-    element18.style.display = 'none';
+    ocultar_todo()
   }
 
 }
@@ -620,24 +421,7 @@ function mostrarPdf14() {
     element17.style.display = 'none';
     element18.style.display = 'none';
   } else {
-    element1.style.display = 'none';
-    element2.style.display = 'none';
-    element3.style.display = 'none';
-    element4.style.display = 'none';
-    element5.style.display = 'none';
-    element6.style.display = 'none';
-    element7.style.display = 'none';
-    element8.style.display = 'none';
-    element9.style.display = 'none';
-    element10.style.display = 'none';
-    element11.style.display = 'none';
-    element12.style.display = 'none';
-    element13.style.display = 'none';
-    element14.style.display = 'none';
-    element15.style.display = 'none';
-    element16.style.display = 'none';
-    element17.style.display = 'none';
-    element18.style.display = 'none';
+    ocultar_todo()
   }
 
 }
@@ -666,24 +450,7 @@ function mostrarPdf15() {
     element17.style.display = 'none';
     element18.style.display = 'none';
   } else {
-    element1.style.display = 'none';
-    element2.style.display = 'none';
-    element3.style.display = 'none';
-    element4.style.display = 'none';
-    element5.style.display = 'none';
-    element6.style.display = 'none';
-    element7.style.display = 'none';
-    element8.style.display = 'none';
-    element9.style.display = 'none';
-    element10.style.display = 'none';
-    element11.style.display = 'none';
-    element12.style.display = 'none';
-    element13.style.display = 'none';
-    element14.style.display = 'none';
-    element15.style.display = 'none';
-    element16.style.display = 'none';
-    element17.style.display = 'none';
-    element18.style.display = 'none';
+    ocultar_todo()
   }
 
 }
@@ -712,24 +479,7 @@ function mostrarPdf16() {
     element17.style.display = 'none';
     element18.style.display = 'none';
   } else {
-    element1.style.display = 'none';
-    element2.style.display = 'none';
-    element3.style.display = 'none';
-    element4.style.display = 'none';
-    element5.style.display = 'none';
-    element6.style.display = 'none';
-    element7.style.display = 'none';
-    element8.style.display = 'none';
-    element9.style.display = 'none';
-    element10.style.display = 'none';
-    element11.style.display = 'none';
-    element12.style.display = 'none';
-    element13.style.display = 'none';
-    element14.style.display = 'none';
-    element15.style.display = 'none';
-    element16.style.display = 'none';
-    element17.style.display = 'none';
-    element18.style.display = 'none';
+    ocultar_todo()
   }
 
 }
@@ -758,24 +508,7 @@ function mostrarPdf17() {
     element16.style.display = 'none';
     element18.style.display = 'none';
   } else {
-    element1.style.display = 'none';
-    element2.style.display = 'none';
-    element3.style.display = 'none';
-    element4.style.display = 'none';
-    element5.style.display = 'none';
-    element6.style.display = 'none';
-    element7.style.display = 'none';
-    element8.style.display = 'none';
-    element9.style.display = 'none';
-    element10.style.display = 'none';
-    element11.style.display = 'none';
-    element12.style.display = 'none';
-    element13.style.display = 'none';
-    element14.style.display = 'none';
-    element15.style.display = 'none';
-    element16.style.display = 'none';
-    element17.style.display = 'none';
-    element18.style.display = 'none';
+    ocultar_todo()
   }
 
 }
@@ -804,24 +537,7 @@ function mostrarPdf18() {
     element16.style.display = 'none';
     element17.style.display = 'none';
   } else {
-    element1.style.display = 'none';
-    element2.style.display = 'none';
-    element3.style.display = 'none';
-    element4.style.display = 'none';
-    element5.style.display = 'none';
-    element6.style.display = 'none';
-    element7.style.display = 'none';
-    element8.style.display = 'none';
-    element9.style.display = 'none';
-    element10.style.display = 'none';
-    element11.style.display = 'none';
-    element12.style.display = 'none';
-    element13.style.display = 'none';
-    element14.style.display = 'none';
-    element15.style.display = 'none';
-    element16.style.display = 'none';
-    element17.style.display = 'none';
-    element18.style.display = 'none';
+    ocultar_todo()
   }
 
 }
