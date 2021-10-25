@@ -1,3 +1,44 @@
+function init(){
+  element1 = document.getElementById('pdfviewer1');
+  estado1 = element1.style.display;  
+  element2 = document.getElementById('pdfviewer2');
+  estado2 = element2.style.display;
+  element3 = document.getElementById('pdfviewer3');
+  estado3 = element3.style.display;
+  element4 = document.getElementById('pdfviewer4');
+  estado4 = element4.style.display;
+  element5 = document.getElementById('pdfviewer5');
+  estado5 = element5.style.display;
+  element6 = document.getElementById('pdfviewer6');
+  estado6 = element6.style.display;
+  element7 = document.getElementById('pdfviewer7');
+  estado7 = element7.style.display;
+  element8 = document.getElementById('pdfviewer8');
+  estado8 = element8.style.display;
+  element9 = document.getElementById('pdfviewer9');
+  estado9 = element9.style.display;
+  element10 = document.getElementById('pdfviewer10');
+  estado10 = element10.style.display;
+  element11 = document.getElementById('pdfviewer11');
+  estado11 = element11.style.display;
+  element12 = document.getElementById('pdfviewer12');
+  estado12 = element12.style.display;
+  element13 = document.getElementById('pdfviewer13');
+  estado13 = element13.style.display;
+  element14 = document.getElementById('pdfviewer14');
+  estado14 = element14.style.display;
+  element15 = document.getElementById('pdfviewer15');
+  estado15 = element15.style.display;
+  element16 = document.getElementById('pdfviewer16');
+  estado16 = element16.style.display;
+  element17 = document.getElementById('pdfviewer17');
+  estado17 = element17.style.display;
+  element18 = document.getElementById('pdfviewer18');
+  estado18 = element18.style.display;
+  ocultar_todo()
+}
+
+
 /* Ocultar Todo */ 
 function ocultar_todo () {
   element1.style.display = 'none';
@@ -539,5 +580,6 @@ function mostrarPdf18() {
   } else {
     ocultar_todo()
   }
-
 }
+
+init();
