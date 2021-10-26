@@ -11,6 +11,8 @@ body {
   background-color: #ffffff;
   background-image: url("data:image/svg+xml,%3Csvg width='64' height='64' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M8 16c4.418 0 8-3.582 8-8s-3.582-8-8-8-8 3.582-8 8 3.582 8 8 8zm0-2c3.314 0 6-2.686 6-6s-2.686-6-6-6-6 2.686-6 6 2.686 6 6 6zm33.414-6l5.95-5.95L45.95.636 40 6.586 34.05.636 32.636 2.05 38.586 8l-5.95 5.95 1.414 1.414L40 9.414l5.95 5.95 1.414-1.414L41.414 8zM40 48c4.418 0 8-3.582 8-8s-3.582-8-8-8-8 3.582-8 8 3.582 8 8 8zm0-2c3.314 0 6-2.686 6-6s-2.686-6-6-6-6 2.686-6 6 2.686 6 6 6zM9.414 40l5.95-5.95-1.414-1.414L8 38.586l-5.95-5.95L.636 34.05 6.586 40l-5.95 5.95 1.414 1.414L8 41.414l5.95 5.95 1.414-1.414L9.414 40z' fill='%23006b7c' fill-opacity='0.09' fill-rule='evenodd'/%3E%3C/svg%3E");
   user-select: none;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 /* NAVEGACION */
@@ -32,6 +34,7 @@ header {
   align-items: center;
   justify-content: space-between;
   height: 80px;
+  width: 100%;
   animation: change 10s ease infinite;
 }
 
@@ -94,9 +97,10 @@ header a:hover {
   margin-left: 90px;
   align-items: center;
   display: inline-block;
+  margin-right: 100px;
 }
 
-#uni {
+.uni {
   font-family: "Open Sans Condensed", sans-serif;
   font-size: 30px;
   padding: 0 0 0 50px;
@@ -106,34 +110,21 @@ header a:hover {
   margin-top: 10px;
   padding: 50px;
   font-family: "Inconsolata", monospace;
-}
-
-.categ {
   display: inline-block;
-  font-size: 15px;
-  color: rgb(0, 20, 19);
-}
-
-.categd {
-  display: inline-block;
-  margin-left: 20px;
   font-size: 15px;
   user-select: none;
   color: rgb(29, 29, 29);
 }
 
-#logoU {
+.datosp h2{
+  margin-bottom: 8px;
+}
+
+.prese img{
   height: 250px;
   user-select: none;
   vertical-align: bottom;
-  margin-left: 30px;
-}
-
-#tux{
-  height: 240px;
-  user-select: none;
-  vertical-align: bottom;
-  margin-left: 30px;
+  margin: 0px 40px 50px 0px;
 }
 
 /* SOCIAL BAR */
@@ -156,28 +147,6 @@ header a:hover {
   transition: all 0.5s ease;
 }
 
-/* SCROLLBAR 
-
-::-webkit-scrollbar {
-  width: 14px;
-  background-color: rgb(1, 24, 22);
-}
-
-::-webkit-scrollbar-thumb {
-  border-radius: 2px;
-  background-color: rgb(224, 224, 224);
-  background-image: url("/img/bars-solid.svg");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: 15px;
-}
-
-::-webkit-scrollbar-button {
-  background-color: rgb(63, 63, 63);
-}
-
-*/ 
-
 /* ANIMATION */
 
 @keyframes change {
@@ -190,4 +159,9 @@ header a:hover {
   100% {
     background-position: 0% 50%;
   }
+}
+
+
+@media (max-width: 300px) {
+  
 }
