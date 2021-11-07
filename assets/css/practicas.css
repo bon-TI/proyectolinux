@@ -94,15 +94,15 @@ header a:hover {
 .listaPracts {
   font-family: "Inconsolata", monospace;
   font-weight: 600;
-  margin: 20px;
-  width: 600px;
-  border-right: 1px solid black;
+  margin: 10px;
+  width: 640px;
   display: inline-block;
   vertical-align: bottom;
 }
 
 .listaPracts ul {
   list-style: none;
+  border-right: 1px solid black;
 }
 
 .listaPracts li {
@@ -124,7 +124,7 @@ header a:hover {
 /* PDF VIEWER */
 
 .pdfviewer{
-  width: 650px;
+  width: 640px;
   margin: 20px;
   display: none;
 }
