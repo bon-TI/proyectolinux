@@ -35,6 +35,8 @@ function init(){
   estado17 = element17.style.display;
   element18 = document.getElementById('pdfviewer18');
   estado18 = element18.style.display;
+  element19 = document.getElementById('pdfviewer19');
+  estado19 = element19.style.display;
   ocultar_todo()
 }
 
@@ -59,6 +61,7 @@ function ocultar_todo () {
   element16.style.display = 'none';
   element17.style.display = 'none';
   element18.style.display = 'none';
+  element19.style.display = 'none';
 }
 
 /* PDF VIEWER 1*/  
@@ -84,6 +87,7 @@ function mostrarPdf1() {
     element16.style.display = 'none';
     element17.style.display = 'none';
     element18.style.display = 'none';
+    element19.style.display = 'none';
   } else {
     ocultar_todo()
   }
@@ -113,6 +117,7 @@ function mostrarPdf2() {
     element16.style.display = 'none';
     element17.style.display = 'none';
     element18.style.display = 'none';
+    element19.style.display = 'none';
   } else {
     ocultar_todo()
   }
@@ -142,6 +147,7 @@ function mostrarPdf3() {
     element16.style.display = 'none';
     element17.style.display = 'none';
     element18.style.display = 'none';
+    element19.style.display = 'none';
   } else {
     ocultar_todo()
   }
@@ -171,6 +177,7 @@ function mostrarPdf4() {
     element16.style.display = 'none';
     element17.style.display = 'none';
     element18.style.display = 'none';
+    element19.style.display = 'none';
   } else {
     ocultar_todo()
   }
@@ -200,6 +207,7 @@ function mostrarPdf5() {
     element16.style.display = 'none';
     element17.style.display = 'none';
     element18.style.display = 'none';
+    element19.style.display = 'none';
   } else {
     ocultar_todo()
   }
@@ -229,6 +237,7 @@ function mostrarPdf6() {
     element16.style.display = 'none';
     element17.style.display = 'none';
     element18.style.display = 'none';
+    element19.style.display = 'none';
   } else {
     ocultar_todo()
   }
@@ -258,6 +267,7 @@ function mostrarPdf7() {
     element16.style.display = 'none';
     element17.style.display = 'none';
     element18.style.display = 'none';
+    element19.style.display = 'none';
   } else {
     ocultar_todo()
   }
@@ -287,6 +297,7 @@ function mostrarPdf8() {
     element16.style.display = 'none';
     element17.style.display = 'none';
     element18.style.display = 'none';
+    element19.style.display = 'none';
   } else {
     ocultar_todo()
   }
@@ -316,6 +327,7 @@ function mostrarPdf9() {
     element16.style.display = 'none';
     element17.style.display = 'none';
     element18.style.display = 'none';
+    element19.style.display = 'none';
   } else {
     ocultar_todo()
   }
@@ -345,6 +357,7 @@ function mostrarPdf10() {
     element16.style.display = 'none';
     element17.style.display = 'none';
     element18.style.display = 'none';
+    element19.style.display = 'none';
   } else {
     ocultar_todo()
   }
@@ -374,6 +387,7 @@ function mostrarPdf11() {
     element16.style.display = 'none';
     element17.style.display = 'none';
     element18.style.display = 'none';
+    element19.style.display = 'none';
   } else {
     ocultar_todo()
   }
@@ -403,6 +417,7 @@ function mostrarPdf12() {
     element16.style.display = 'none';
     element17.style.display = 'none';
     element18.style.display = 'none';
+    element19.style.display = 'none';
   } else {
     ocultar_todo()
   }
@@ -432,6 +447,7 @@ function mostrarPdf13() {
     element16.style.display = 'none';
     element17.style.display = 'none';
     element18.style.display = 'none';
+    element19.style.display = 'none';
   } else {
     ocultar_todo()
   }
@@ -461,6 +477,7 @@ function mostrarPdf14() {
     element16.style.display = 'none';
     element17.style.display = 'none';
     element18.style.display = 'none';
+    element19.style.display = 'none';
   } else {
     ocultar_todo()
   }
@@ -490,6 +507,7 @@ function mostrarPdf15() {
     element16.style.display = 'none';
     element17.style.display = 'none';
     element18.style.display = 'none';
+    element19.style.display = 'none';
   } else {
     ocultar_todo()
   }
@@ -519,6 +537,7 @@ function mostrarPdf16() {
     element15.style.display = 'none';
     element17.style.display = 'none';
     element18.style.display = 'none';
+    element19.style.display = 'none';
   } else {
     ocultar_todo()
   }
@@ -548,6 +567,7 @@ function mostrarPdf17() {
     element15.style.display = 'none';
     element16.style.display = 'none';
     element18.style.display = 'none';
+    element19.style.display = 'none';
   } else {
     ocultar_todo()
   }
@@ -577,6 +597,36 @@ function mostrarPdf18() {
     element15.style.display = 'none';
     element16.style.display = 'none';
     element17.style.display = 'none';
+    element19.style.display = 'none';
+  } else {
+    ocultar_todo()
+  }
+}
+
+/* PDF VIEWER 19*/  
+function mostrarPdf19() {
+  element19 = document.getElementById('pdfviewer19');
+  estado19 = element19.style.display;
+  if (estado19 == 'none') {
+    element19.style.display = 'inline-block';
+    element1.style.display = 'none';
+    element2.style.display = 'none';
+    element3.style.display = 'none';
+    element4.style.display = 'none';
+    element5.style.display = 'none';
+    element6.style.display = 'none';
+    element7.style.display = 'none';
+    element8.style.display = 'none';
+    element9.style.display = 'none';
+    element10.style.display = 'none';
+    element11.style.display = 'none';
+    element12.style.display = 'none';
+    element13.style.display = 'none';
+    element14.style.display = 'none';
+    element15.style.display = 'none';
+    element16.style.display = 'none';
+    element17.style.display = 'none';
+    element18.style.display = 'none';
   } else {
     ocultar_todo()
   }
