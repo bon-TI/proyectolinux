@@ -1,18 +1,23 @@
 <?php
-    // Esto es el correo que se enviara
-    $destinatario = 'jose.tapia99@uabc.edu.mx';
-    
-    $nombre = $_POST['fullname'];
-    $asunto = $_POST['affair'];
+    // Llamando a los campos 
+    $nombre = $_POST['nombre'];
+    $asunto = $_POST['asunto'];
     $email = $_POST['email'];
-    $telefono = $_POST['phone'];
-    $mensaje = $_POST['message'];
+    $telefono = $_POST['telefono'];
+    $mensaje = $_POST['mensaje'];
 
-    $header = "Mensaje enviado desde la página de Taller de Linux";
-    $mensajeCompleto = $mensaje . "\nAtentamente: " . $nombre . $telefono;
-    
-    mail($destinatario, $asunto, $mensajeCompleto, $header);
-    echo "<script>alert('Correo Enviado Exitosamente')</script>";
-    echo "<script> setTimeout(\"location.href='contacto.html'\",1000)</script>";
+    //Datos para el correo
+    $destinatario = 'jose.tapia99@uabc.edu.mx';    
+    $asunto_p = 'Contacto desde el Portafolio UABC';
+
+    $carta = "De: $nombre\n";
+    $carta .= "Correo: $email\n";
+    $carta .= "Telefono: $telefono\n\n";
+    $carta .= "Asunto: $asunto\n";
+    $carta .= "Mensaje: $mensaje\n";
+
+    //Enviando mensaje
+    mail($destinatario, $asunto_p, $carta);
+    header('Location:mensaje.html');
     
 ?>
