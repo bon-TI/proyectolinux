@@ -65,7 +65,7 @@ header li {
 header a {
   text-decoration: none;
   color: white;
-  font-family: "Courier New", Courier, monospace;
+  font-family: monospace;
   font-size: 19px;
   padding: 12px 10px;
   user-select: none;
@@ -74,7 +74,7 @@ header a {
 header #contacactivo {
   text-decoration: none;
   color: black;
-  font-family: "Courier New", Courier, monospace;
+  font-family: monospace;
   font-size: 19px;
   padding: 12px 10px;
   user-select: none;
