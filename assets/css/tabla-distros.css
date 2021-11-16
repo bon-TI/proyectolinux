@@ -44,4 +44,5 @@ table tr td {
   padding: 6px;
   font-family: -apple-system, "Segoe UI", Roboto, sans-serif;
   border-bottom: 1px solid black;
+  text-align: justify;
 }
