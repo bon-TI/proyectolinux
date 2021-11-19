@@ -34,3 +34,12 @@ ul{
 ul li{
     margin: 3px 0;
 }
+
+.content-info pre{
+    margin: 15px;
+    background-color: rgb(211, 211, 211);
+    border-radius: 5px;
+    padding: 5px;
+    overflow: auto;
+    overflow-y: hidden;
+}
